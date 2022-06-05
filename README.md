@@ -58,7 +58,7 @@ npm start
 ```
 HOW TO DEPLOY <a href="https://youtube.com/c/lltrker">
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Nichuvdr/BOT-V.1/)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ife250/BOT-V-2/)
 
 
 <p align="center">
